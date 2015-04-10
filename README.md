@@ -25,3 +25,15 @@ Francois Diederich, ̧ § and Gerhard Klebe
 - [fulltext](http://pubs.acs.org/doi/pdf/10.1021/jm500401x)
 
 Buffer dependency of ITC experiments that may involve protonation state changes upon binding
+
+```
+High yield bacterial expression of active c-Abl and c-Src tyrosine kinases
+MARKUS A. SEELIGER, MATTHEW YOUNG, M. NIDANIE HENDERSON, PATRICIA PELLICENA, DAVID S. KING, ARNOLD M. FALICK AND JOHN KURIYAN
+```
+
+ - [fulltext](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2253236/pdf/0143135.pdf)
+
+#### From methods section
+Thermodynamic binding parameters for the binding of inhibitors to the enzymes were obtained through isothermal titration calorimetry in a VP-ITC instrument (Micro-cal) at 30° C.
+
+Proteins were exchanged into 20 mM Tris (pH 8.0), 100 mM NaCl, 10% glycerol, 1 mM TCEP, 5% DMSO on PD-10 buffer exchange columns (GE Life-science), and diluted to 10–50 μM. Imatinib stocks (purified from clinically available capsules, Novartis) in 100% DMSO were diluted 20-fold with buffer to a final concentration of 1–500 μM. The heat of binding was measured over the injection of 295 μL of drug in 12-μL steps spaced 300 sec apart. Data were fitted to a one binding site model using the Origin software package (Microcal).
