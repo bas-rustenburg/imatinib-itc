@@ -1,9 +1,6 @@
 # imatinib-itc
 Storing some useful facts for performing ITC on abl with imatinib
 
-git@github.com:bas-rustenburg/imatinib-itc.git
-
-
 ## A conserved protonation-dependent switch controls drug binding in the Abl kinase
 Yibing Shan, Markus A. Seeliger, Michael P. Eastwood, Filipp Frank, Huafeng Xu, Morten Ø Jensen, Ron O. Dror, John Kuriyan, and David E. Shaw
 
