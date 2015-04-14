@@ -28,7 +28,8 @@ spaced 300 sec apart. (VPITC has 1 ml cell?)
     - 10% glycerol
     - 1 mM TCEP
     - 5% DMSO
-
+    - pH 7.8
+    
 - Check whether in the future it will be possible to have the Revo make these
 
 - Check for possible incompatibilities of Tricine/Hepes with the other buffer components that Seeliger uses.
