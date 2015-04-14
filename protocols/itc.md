@@ -32,8 +32,6 @@ spaced 300 sec apart. (VPITC has 1 ml cell?)
     
 - Check whether in the future it will be possible to have the Revo make these
 
-- Check for possible incompatibilities of Tricine/Hepes with the other buffer components that Seeliger uses.
-
 - Calculate scaled down volumes for Seeliger protocol (VPITC versus ITC-200)
 
     -
