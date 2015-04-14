@@ -31,7 +31,10 @@ spaced 300 sec apart. (VPITC has 1 ml cell?)
 
 - Check whether in the future it will be possible to have the Revo make these
 
-- Calculate scaled down volumes for Seeliger protocl (VPITC versus ITC-200)
+- Calculate scaled down volumes for Seeliger protocol (VPITC versus ITC-200)
+
+    -
+     Alternatively, use heuristic equations with the concentrations given in the Seeliger paper and see if we can find a more "optimal" setup
 
 - Check our Imatinib stocks
 
