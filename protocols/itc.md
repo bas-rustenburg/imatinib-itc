@@ -23,24 +23,10 @@ ITC is at 303.15 K
 
 ## TODO
 
-- Make recipes for 1 L of
-    - 50 mM Hepes, Tris, or Tricine
-    - 100 mM NaCl
-    - 10% glycerol
-    - 1 mM TCEP
-    - 5% DMSO
-    - pH 7.8
-
-
-
-
 - Check whether in the future it will be possible to have the Revo make these
-
 - Calculate scaled down volumes for Seeliger protocol (VPITC versus ITC-200)
-
-    -
-     Alternatively, use heuristic equations with the concentrations given in the Seeliger paper and see if we can find a more "optimal" setup
-
+    - ASR is working on an ipython notebook using itctools.
+    
 - Check our Imatinib stocks
 
 - Investigate if we want to use more buffers than just the Klebe buffers
