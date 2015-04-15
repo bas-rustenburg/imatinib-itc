@@ -54,7 +54,7 @@ http://www.biomol.net/en/tools/buffercalculator.htm
 
 ***Do we just replace water with***  
 - 10% glycerol
-- 1 mM TCEP
+- 1 mM TCEP (286.65 milligram per liter)
 - 5% DMSO
 ?
 
