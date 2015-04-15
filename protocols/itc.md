@@ -65,6 +65,11 @@ http://www.biomol.net/en/tools/buffercalculator.htm
 - TCEP (we have in stock) , ~ 0.3g per liter
 - NaCl (we have in stock), 4 g per liter
 
+#### To order:
+- Tricine free acid (MW = 179.2) 
+- Hepes free acid (MW = 238.3)
+- Glycerol ( 100 mL per liter of buffer)
+
 
 ***Do we just replace water with***  
 - 10% glycerol
