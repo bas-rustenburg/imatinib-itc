@@ -130,7 +130,7 @@ To make 1000 ml of 0.05 M Tricine (pKa=8.26) Buffer:
     >Seeliger MA, Young M, Henderson MN, Pellicena P, King DS, Falick AM, Kuriyan J.
     > [fulltext](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2253236/pdf/0143135.pdf)
 
-2. > **Chasing Protons: How Isothermal Titration Calorimetry, Mutagenesis, and pKa Calculations Trace the L°Cus of Charge in  Ligand Binding to a tRNA-Binding Enzyme**
+2. > **Chasing Protons: How Isothermal Titration Calorimetry, Mutagenesis, and pKa Calculations Trace the Locus of Charge in  Ligand Binding to a tRNA-Binding Enzyme**
 
     > Manuel Neeb, Paul Czodrowski, Andreas Heine, Luzi Jakob Barandun, Christoph Hohn,
 Francois Diederich, and Gerhard Klebe
