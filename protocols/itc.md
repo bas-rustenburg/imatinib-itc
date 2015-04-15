@@ -52,6 +52,20 @@ spaced 300 sec apart. (VPITC has 1 ml cell?)
 ## Buffer Recipes
 http://www.biomol.net/en/tools/buffercalculator.htm
 
+### Chemicals needed:
+
+- Tricine free acid (MW = 179.2)
+    -  ~ 9 grams per liter of buffer
+- Tris base  (We have Tris in stock, as base and as HCl solution)
+    - ~ 6 grams per liter of buffer
+- Hepes free acid (MW = 238.3)
+    -  ~ 12 grams per liter of buffer
+- Glycerol ( 100 mL per liter of buffer)
+- DMSO ( 50 mL per liter of buffer, we have some in stock)
+- TCEP (we have in stock) , ~ 0.3g per liter
+- NaCl (we have in stock), 4 g per liter
+
+
 ***Do we just replace water with***  
 - 10% glycerol
 - 1 mM TCEP (286.65 milligram per liter)
@@ -121,6 +135,7 @@ To make 1000 ml of 0.05 M Tricine (pKa=8.26) Buffer:
     - Dissolve 0.0155 mol of basic component
     - Add 4.946 g NaCl.
     - Make up to 1000 ml with pure water
+
 
 
 ## Citations
